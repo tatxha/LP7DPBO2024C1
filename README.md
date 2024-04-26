@@ -4,11 +4,13 @@
 
 Saya Tattha Maharany Yasmin Akbar dengan NIM 2201805 mengerjakan Latihan 7 dalam mata kuliah Desain dan Pemrograman Berorientasi Objek untuk keberkahanNya maka saya tidak melakukan kecurangan seperti yang telah dispesifikasikan. Aamiin.
 
+## Penjelasan
 
 Projek terdiri dari 4 file yaitu **App**, **Player**, **Pipe**, dan **FlappyBIrd**
 Player dan Pipe merupakan class untuk atribut player dan pipe. App untuk memulai program dan FlappyBird untuk memodifikasi game. Di mana pada file FlappyBird kita bisa mengubah alur game dan sebagainya.
 
 ## Alur Program
+
 - User menjalankan program, lalu akan muncul dialog untuk memilih ingin memainkan game atau tidak.
   ![image](https://github.com/tatxha/LP7DPBO2024C1/assets/134766457/86ed4e9d-5413-4de9-9219-04b05456abb8)
   Jika klik `yes` maka akan mulai bermain game, jika klik `no` program akan ditutup (close)
